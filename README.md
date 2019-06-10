@@ -1,7 +1,7 @@
 # Glow
 A Simple Glow Command
 
-Commands
+Commands:
 
 /glow -  Make Your Self Glow
 
