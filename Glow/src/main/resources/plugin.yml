@@ -1,0 +1,6 @@
+name: Glow
+version: ${project.version}
+main: me.tyler.glow.Glow
+commands:
+  glow:
+    description: Make You Or The Selected Player Glow

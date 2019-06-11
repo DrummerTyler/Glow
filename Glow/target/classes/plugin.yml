@@ -1,0 +1,6 @@
+name: Glow
+version: 1.0-SNAPSHOT
+main: me.tyler.glow.Glow
+commands:
+  glow:
+    description: Make You Or The Selected Player Glow
