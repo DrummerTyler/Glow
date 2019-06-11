@@ -5,4 +5,4 @@ Commands:
 
 /glow -  Make Your Self Glow
 
-/glow <player>  -  Make Another player Glow
+/glow [Player]  -  Make Another player Glow
