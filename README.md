@@ -1,8 +1,8 @@
 # Glow
-A Simple Glow Command
+A simple glow command for SpigotMC
 
 Commands:
 
-/glow -  Make Your Self Glow
+/glow -  Toggle glowing for yourself.
 
-/glow [Player]  -  Make Another player Glow
+/glow [Player]  -  Toggle another players Glow
