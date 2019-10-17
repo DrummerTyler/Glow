@@ -1,6 +1,8 @@
 name: Glow
 version: 1.0-SNAPSHOT
 main: me.tyler.glow.Glow
+api-version: 1.13
 commands:
   glow:
-    description: Make You Or The Selected Player Glow
+    description: Make you or the selected player glow
+    usage: /glow [player]
