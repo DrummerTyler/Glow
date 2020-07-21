@@ -1,6 +1,6 @@
 package me.tyler.glow;
 
-import me.tyler.glow.Commands.GlowCommand;
+import me.tyler.glow.commands.GlowCommand;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class Glow extends JavaPlugin {
@@ -9,13 +9,12 @@ public final class Glow extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         getCommand("glow").setExecutor(new GlowCommand());
-        System.out.println("Glow Is Enabled");
-
+        System.out.println("Glow is enabled");
     }
 
     @Override
     public void onDisable() {
         // Plugin shutdown logic
-        System.out.println("Glow Is Disabled");
+        System.out.println("Glow is disabled");
     }
 }
